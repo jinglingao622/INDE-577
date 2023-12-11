@@ -18,13 +18,6 @@ Ensemble Learning is a powerful approach in machine learning where multiple mode
 
 ## Prerequisites
 
-- **Python Version:** 3.x
+- **Python Version:** 3.10
 - **Libraries:** numpy, pandas, scikit-learn, matplotlib
-
-## Installation
-
-To get started, install the required Python libraries using the following command:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib
 
