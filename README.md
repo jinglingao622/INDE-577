@@ -29,5 +29,5 @@ I extend my heartfelt gratitude to Professor Randy R. Davila for his invaluable 
 The project is based on the curriculum of ['Data Science and Machine Learning Spring 2022' as taught by Professor Randy R. Davila](https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022/blob/main/).
 
 ## Contact Information
-- Bingrui Chen
+- Jinglin Gao
 - Email: [jg123@rice.edu](mailto:jg123@rice.edu)
