@@ -10,7 +10,9 @@ Ensemble Learning is a powerful approach in machine learning where multiple mode
 
 - **Fundamental Concepts:** Introduction to the core principles of Ensemble Learning, including its rationale and advantages.
 - **Ensemble Techniques Explored:**
-  - **Bagging:** Understanding how bagging reduces variance and improves model stability.
+  - **Hard Voting:** In classification, each model votes for a class, and the majority vote decides the final outcome.
+  - **Bagging:** Trains models on random subsets of data and averages their predictions.
+  - **Random Forests:** A type of bagging with decision trees, combining the output of multiple trees trained on data and feature subse
 - **Practical Implementations:** Step-by-step demonstrations of various Ensemble Learning techniques using Python and popular machine learning libraries.
 - **Real-World Applications:** Applying Ensemble Learning methods to diverse datasets to solve complex problems.
 
